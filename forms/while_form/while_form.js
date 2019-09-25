@@ -1,5 +1,5 @@
 //1
-/*
+
 let name = prompt('Enter your first name and last name separated by a space');
 i = 0;
 letterNum = 1
@@ -22,4 +22,4 @@ for (i = 1; i <= names.length; i++) {
   console.log(names[index]);
 }
 
-*/
+
